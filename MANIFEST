@@ -1,0 +1,5 @@
+lib/YAML/LibYAML/Emitter.c
+lib/YAML/LibYAML/Emitter.pm
+lib/YAML/LibYAML/Emitter/Inline.pm
+Makefile.PL
+MANIFEST			This list of files
