@@ -9,7 +9,7 @@ build: libyaml
 clean:
 	rm -fr libyaml
 
-purge:
+all purge:
 	make -f Makefile $@
 
 libyaml:
